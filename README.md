@@ -14,7 +14,8 @@
  
 <p align="center">
 <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  Projeto desenvolvido por: <a href="https://www.linkedin.com/in/jos%C3%A9-almeida-80063a256/">José Bento</a>, <a href="https://www.linkedin.com/in/gabrielly-cintra/">Gabrielly Cintra</a>, <a href="https://www.linkedin.com/in/felipe-andradet/">Felipe de Andrade</a>, <a href="https://www.linkedin.com/in/vinicius-kingo-1b769030a/">Vinicius Kingo</a>.
+
 </p>
 
 
@@ -29,8 +30,6 @@ perdas econômicas substanciais. Tendo como objetivo principal deste projeto é 
 uma gestão agrícola mais segura, sustentável e responsável por meio da implementação de
 um sistema eficiente de detecção e alerta de vazamentos em tanques de armazenamento
 agrícola.
-<br><br>
-
 <br><br>
 
 ## 🛠 Estrutura de pastas
