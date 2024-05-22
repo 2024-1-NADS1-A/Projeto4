@@ -65,12 +65,34 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Equipamentos utilizados
 
-<b>ESP32;<b>
-<b>Sensor ultrassônico;<b>
-<b>Protobord;<b>
-<b>Pequeno reservatório;<b>
-<b>Jumpers Macho e Fêmea.<b>
+🛠 Hardware
+<br>ESP32;</br>
+<br>Sensor ultrassônico;</br>
+<br>Protobord;</br>
+<br>Pequeno reservatório;</br>
+<br>Jumpers Macho e Fêmea.</br>
 
+🛠 Software 
+<bR>Arduino IDE</br>
+<bR>Blynk</br>
+
+
+## 🛠 Instalação Arduino IDE
+
+•Instale o Arduino IDE a partir do site oficial.
+
+• Abra o Arduino IDE após a instalação.
+
+
+⚙Configuração do Arduino IDE para ESP32:
+
+• No Arduino IDE, vá em File > Preferences.
+
+• Adicione a URL a seguir ao campo "Additional Board Manager URLs"
+
+https://dl.espressif.com/dl/package_esp32_index.json
+
+• Vá em Tools > Board > Boards Manager, procure por "esp32" e clique em instalar.
 
 ## 💻 Configuração para Desenvolvimento
 
