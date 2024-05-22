@@ -66,32 +66,43 @@ Há também 4 pastas que seguem da seguinte forma:
 ## 🛠 Equipamentos utilizados
 
 🛠 Hardware
-<br>ESP32;</br>
-<br>Sensor ultrassônico;</br>
-<br>Protobord;</br>
-<br>Pequeno reservatório;</br>
-<br>Jumpers Macho e Fêmea.</br>
+<br>•ESP32;</br>
+<br>•Sensor ultrassônico;</br>
+<br>•Protobord;</br>
+<br>•Pequeno reservatório;</br>
+<br>•Jumpers Macho e Fêmea.</br>
 
 🛠 Software 
-<bR>Arduino IDE</br>
-<bR>Blynk</br>
+<bR>•Arduino IDE</br>
+<bR>•Blynk</br>
+
+## 🛠 Instalação Blynk 
+
+• Entre no site do Blykn e faça login;
+• Crie um novo projeto e obtenha as credenciais com o token de autenticação;
+• No código do ESP32 inclua a biblioteca do Blynk e insira as credenciais;
+• Estabeleça a conexão com o servidor do Blynk;
+• Configure os pinos virtuais;
+• Com a conexão, integre o ESP32 ao Blynk;
+• Coloque o ESP32 online;
+• Execute atualizações de firmaware OTA;
+• Contrua a Interface;
+• Configure o modelo, alertas, notificações e automações;
+• Após todas as etapas a integração e interface estará pronta.
 
 
 ## 🛠 Instalação Arduino IDE
 
-•Instale o Arduino IDE a partir do site oficial.
+•Instale o Arduino IDE a partir no site.
+• Abra o Arduino IDE após ser instalado.
 
-• Abra o Arduino IDE após a instalação.
-
-
-⚙Configuração do Arduino IDE para ESP32:
+⚙ Configuração do Arduino IDE para ESP32:
 
 • No Arduino IDE, vá em File > Preferences.
-
 • Adicione a URL a seguir ao campo "Additional Board Manager URLs"
-
+```sh
 https://dl.espressif.com/dl/package_esp32_index.json
-
+```
 • Vá em Tools > Board > Boards Manager, procure por "esp32" e clique em instalar.
 
 ## 💻 Configuração para Desenvolvimento
