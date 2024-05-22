@@ -31,7 +31,6 @@ uma gestão agrícola mais segura, sustentável e responsável por meio da imple
 um sistema eficiente de detecção e alerta de vazamentos em tanques de armazenamento
 agrícola.
 <br><br>
-
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
@@ -77,7 +76,6 @@ Há também 4 pastas que seguem da seguinte forma:
 <bR>•Blynk</br>
 
 ## 🛠 Instalação Blynk 
-
 <br>• Entre no site do Blykn e faça login;</br>
 <br>• Crie um novo projeto e obtenha as credenciais com o token de autenticação;</br>
 <br>• No código do ESP32 inclua a biblioteca do Blynk e insira as credenciais;</br>
@@ -92,7 +90,6 @@ Há também 4 pastas que seguem da seguinte forma:
 
 
 ## 🛠 Instalação Arduino IDE
-
 <br>•Instale o Arduino IDE a partir no site.</br>
 <br>• Abra o Arduino IDE após ser instalado.</br>
 
@@ -104,7 +101,7 @@ Há também 4 pastas que seguem da seguinte forma:
 ```sh
 https://dl.espressif.com/dl/package_esp32_index.json
 ```
-<br• Vá em Tools > Board > Boards Manager, procure por "esp32" e clique em instalar.</br>
+<br>• Vá em Tools > Board > Boards Manager, procure por "esp32" e clique em instalar.</br>
 <br>• Conecte o ESP32 ao Blynk</br>
 
 ## 🗃 Histórico de lançamentos
