@@ -66,34 +66,12 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Equipamentos utilizados
 
-ESP32;
-Sensor ultrassônico;
-Protobord;
-Pequeno reservatório;
-Jumpers Macho e Fêmea;
+<b>ESP32;<b>
+<b>Sensor ultrassônico;<b>
+<b>Protobord;<b>
+<b>Pequeno reservatório;<b>
+<b>Jumpers Macho e Fêmea.<b>
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
@@ -113,18 +91,15 @@ Coloque código do prompt de comnando se for necessário
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.1.1 - 20/05/2024
-    * MUDANÇA: preenchimento github (nome: Integrantes e Professores, Referencias, Descrição do Projeto )    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
- 
-* 
+* 0.1.1 - 10/04/2024
+    * Planejamento do projeto e aquisição dos materiais
+* 0.1.2 - 3/05/2024
+    * Inicio da construção do código e do circuito 
+* 0.1.3 - 10/05/2024
+    * Integração do Esp32 com o Blynk
+ * 0.1.4 - 20/05/2024
+    * Organização do github e ficha
 
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
 
 ## 📋 Licença/License
 
