@@ -98,7 +98,9 @@ A cada atualização os detalhes devem ser lançados aqui.
 * 0.1.3 - 10/05/2024
     * Integração do Esp32 com o Blynk
  * 0.1.4 - 20/05/2024
-    * Organização do github e ficha
+    * Organização do github e fichas do projeto
+ * 0.1.5 - 22/05/2024
+    *Últimos testes do sensor e aplicativo
 
 
 ## 📋 Licença/License
