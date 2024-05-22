@@ -64,7 +64,13 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <b>src</b>: Pasta que contém o código fonte.
 
-## 🛠 Instalação
+## 🛠 Equipamentos utilizados
+
+ESP32;
+Sensor ultrassônico;
+Protobord;
+Pequeno reservatório;
+Jumpers Macho e Fêmea;
 
 <b>Android:</b>
 
