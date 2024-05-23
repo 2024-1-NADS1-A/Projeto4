@@ -76,7 +76,7 @@ Há também 4 pastas que seguem da seguinte forma:
 <bR>•Blynk</br>
 
 ## 🛠 Instalação Blynk 
-<br>• Entre no site do Blykn e faça login;</br>
+<br>• Entre no site do Blykn e faça login:https://blynk.io/</br>
 <br>• Crie um novo projeto e obtenha as credenciais com o token de autenticação;</br>
 <br>• No código do ESP32 inclua a biblioteca do Blynk e insira as credenciais;</br>
 <br>• Estabeleça a conexão com o servidor do Blynk;</br>
