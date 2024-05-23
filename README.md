@@ -68,7 +68,7 @@ Há também 4 pastas que seguem da seguinte forma:
 <br>•ESP32;</br>
 <br>•Sensor ultrassônico;</br>
 <br>•Protobord;</br>
-<br>•Pequeno reservatório;</br>
+<br>•Pequeno reservatório de 3 Litros;</br>
 <br>•Jumpers Macho e Fêmea.</br>
 
 🛠 Software 
