@@ -90,7 +90,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 
 ## 🛠 Instalação Arduino IDE
-<br>•Instale o Arduino IDE a partir no site.</br>
+<br>•Instale o Arduino IDE a partir no site: https://www.arduino.cc/en/software</br>
 <br>• Abra o Arduino IDE após ser instalado.</br>
 
 ⚙ Configuração do Arduino IDE para ESP32:
